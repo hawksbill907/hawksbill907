@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hawksbill907
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python through 365 Data Science
-- 💞️ I’m looking to collaborate on code errors as I learn programming issues
+- 👀Data Science Student at Eastern Univeristy
+- 🌱 Learning Python through 365 Data Science Bootcamp
+- 💞️ I’m l ooking to collaborate on code errors as I learn programming issues
 - 📫 How to reach me carlyadams312@gmail.com
 
 <!---
